@@ -91,7 +91,7 @@
     "draftjs-utils": "^0.10.2",
     "immutable": "~3.7.4",
     "prop-types": "^15.7.2",
-    "react-color": "^2.14.1",
+    "react-color": "^2.19.1",
     "uuid": "^7.0.2"
   }
 }
